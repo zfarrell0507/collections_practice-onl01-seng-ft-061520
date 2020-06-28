@@ -37,6 +37,8 @@ end
 kesha_maker(peoples)
 fruit = ["apple", "orange", "pear", "avis", "arlo", "ascot" ]
 def find_a(fruit)
+  a = []
+  if fruit.
 end
   
   
