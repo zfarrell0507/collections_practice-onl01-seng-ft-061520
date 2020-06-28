@@ -30,13 +30,14 @@ def reverse_array(reversed)
 end
 
 def kesha_maker(peoples)
-  peoples.each_with_index do |name, i|
+ peoples = peoples.each_with_index do |name, i|
     
   end
 end
 kesha_maker(peoples)
 fruit = ["apple", "orange", "pear", "avis", "arlo", "ascot" ]
 def find_a(fruit)
+end
   
   
   
