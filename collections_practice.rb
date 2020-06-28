@@ -29,17 +29,6 @@ def reverse_array(reversed)
   reversed.reverse
 end
 
-def kesha_maker(peoples)
- peoples = peoples.each do |name|
-    
-  end
-end
-kesha_maker(peoples)
-fruit = ["apple", "orange", "pear", "avis", "arlo", "ascot" ]
-def find_a(fruit)
-  a = []
-  if fruit.
-end
   
   
   
