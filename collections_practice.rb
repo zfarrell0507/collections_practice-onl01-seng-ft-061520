@@ -30,7 +30,7 @@ def reverse_array(reversed)
 end
 
 def kesha_maker(peoples)
-  peoples.each_with_index do |name, I| name.[2] = "$"
+  peoples.each_with_index do |name, I| name = "$"
   end
 end
 kesha_maker(peoples)
